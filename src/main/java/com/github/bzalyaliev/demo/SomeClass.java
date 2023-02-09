@@ -1,4 +1,4 @@
-package com.github.bzalyaliev;
+package com.github.bzalyaliev.demo;
 
 public class SomeClass {
 
