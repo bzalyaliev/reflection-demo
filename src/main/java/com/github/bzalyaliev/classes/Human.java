@@ -12,6 +12,11 @@ public class Human {
                 '}';
     }
 
+    public Human(int age, String name) {
+        this.age = age;
+        this.name = name;
+    }
+
     public Human() {
         this.age = 1;
         this.name = "DEFAULT_NAME";
